@@ -1,8 +1,24 @@
 {
-        "videoList": [
-        "https://resource.3uplay.com/user-static/5ec389fd-87f1-48c2-8ddf-796f786a162a4171571082012266476.mp4",
-        "https://resource.3uplay.com/user-static/e5ec4d51-6dd7-4555-8997-147b655a5c807439899739134042499.mp4",
-        "https://resource.3uplay.com/user-static/55d6a6e1-c3c5-4997-9599-61ceb09db9f27128466106879010557.mp4",
-        "https://playone-assets.goplayone.com/playone/user/y71JkOxRBO/post/a177769f-0a98-4f53-8957-858bc41c4af6"
-    ]
+        "media": [
+                    {
+                        "media_id": 1,
+                        "type": "video",
+                        "url": "https://resource.3uplay.com/user-static/5ec389fd-87f1-48c2-8ddf-796f786a162a4171571082012266476.mp4"
+                    },
+                {
+                        "media_id": 2,
+                        "type": "video",
+                        "url": "https://resource.3uplay.com/user-static/e5ec4d51-6dd7-4555-8997-147b655a5c807439899739134042499.mp4"
+                    },
+                {
+                        "media_id": 3,
+                        "type": "video",
+                        "url": "https://resource.3uplay.com/user-static/55d6a6e1-c3c5-4997-9599-61ceb09db9f27128466106879010557.mp4"
+                    },
+                {
+                        "media_id": 4,
+                        "type": "video",
+                        "url": "https://playone-assets.goplayone.com/playone/user/y71JkOxRBO/post/a177769f-0a98-4f53-8957-858bc41c4af6"
+                    }
+                ]
 }
